@@ -1,0 +1,16 @@
+Trip_ID,Date,Vehicle_ID,Route,Distance_km,Delivery_Status,Fuel_Cost_EUR,Toll_Cost_EUR,Maintenance_Cost_EUR,Receipt_Status,Expense_Status,Operational_Issue
+TRP-001,2026-01-05,VAN-01,Hub-North,86,Completed,31.40,6.00,0.00,Complete,Approved,None
+TRP-002,2026-01-06,VAN-02,Hub-West,112,Completed,39.80,8.50,0.00,Complete,Approved,None
+TRP-003,2026-01-07,VAN-03,Hub-East,74,Delayed,27.20,4.00,0.00,Complete,Approved,Traffic delay
+TRP-004,2026-01-08,VAN-04,Hub-South,128,Completed,44.10,9.00,0.00,Missing,Review,Missing toll receipt
+TRP-005,2026-01-09,VAN-05,Hub-Central,63,Completed,24.60,3.50,0.00,Complete,Approved,None
+TRP-006,2026-01-12,VAN-01,Hub-West,105,Completed,37.50,7.00,0.00,Complete,Approved,None
+TRP-007,2026-01-13,VAN-02,Hub-North,91,Completed,33.10,5.50,0.00,Complete,Approved,None
+TRP-008,2026-01-14,VAN-03,Hub-South,137,Delayed,46.80,9.50,0.00,Complete,Approved,Loading delay
+TRP-009,2026-01-15,VAN-04,Hub-East,79,Completed,29.30,4.50,85.00,Complete,Approved,Tyre repair
+TRP-010,2026-01-16,VAN-05,Hub-West,118,Completed,41.20,8.00,0.00,Complete,Approved,None
+TRP-011,2026-01-19,VAN-01,Hub-Central,69,Completed,25.70,3.50,0.00,Complete,Approved,None
+TRP-012,2026-01-20,VAN-02,Hub-South,132,Completed,45.60,9.00,0.00,Complete,Approved,None
+TRP-013,2026-01-21,VAN-03,Hub-North,88,Completed,32.40,5.00,0.00,Complete,Approved,None
+TRP-014,2026-01-22,VAN-04,Hub-West,109,Completed,38.90,7.50,0.00,Complete,Review,Expense amount requires verification
+TRP-015,2026-01-23,VAN-05,Hub-East,77,Completed,28.10,4.00,0.00,Complete,Approved,None
